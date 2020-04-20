@@ -1,0 +1,9 @@
+LaravelShoppingCart Package:
+    LaravelShoppingCart | https://github.com/Crinsane/LaravelShoppingcart
+    
+Login Picture: 
+    Kyle Nieber | https://images.unsplash.com/photo-1523843268911-45a882919fec?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80
+
+Cart functionality Tutorial:
+    WebDevMatics | https://www.youtube.com/watch?v=oSU3VeWEK94&list=PLzz9vf6075V2fzd18vU64PBHdcHI3BaoH&index=8&t=0s
+
